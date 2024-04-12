@@ -8,11 +8,12 @@ Provide your profitable path, the amountIn, amountOut value for each swap, and y
 (your tokenB balance).
 
 > Solution
-start amount:  5
-5.666666666666667
-2.467741935483871
-5.117056856187291
-20.205429200293473
+
+start amount:  5  
+5.666666666666667  
+2.467741935483871  
+5.117056856187291  
+20.205429200293473  
 Arbitrage opportunity: path: tokenB->tokenA->tokenD->tokenC->tokenB, tokenB balance=20.205429200293473
 
 ## Problem 2
